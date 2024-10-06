@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "dawsonwalter1p@gmail.com",
+    "password": "realtimes",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -24,8 +24,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ilom 😃",
-  "prefix": "-",
+  "nickNameBot": "gogo by Dawson 😃",
+  "prefix": ".",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
